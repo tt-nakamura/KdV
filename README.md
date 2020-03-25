@@ -1,1 +1,1 @@
-# KdV
+Spectral method of solving Korteweg-de Vries equation
